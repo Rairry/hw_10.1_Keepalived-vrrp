@@ -60,6 +60,18 @@ virtual_ipaddress {
 
 *Пришлите скриншот рабочей конфигурации и состояния сервиса для каждого нода.*
 
+MASTER нода:
+
+![image](https://user-images.githubusercontent.com/124167007/227818329-123797af-9940-4958-b88d-775a927c52a2.png)
+![image](https://user-images.githubusercontent.com/124167007/227818130-2cd3ff63-2dd8-4328-ab0e-f0f805b21cfc.png)
+![image](https://user-images.githubusercontent.com/124167007/227818170-0375d320-3fad-4155-8703-80f0047eefd3.png)
+
+SLAVE нода:
+
+![image](https://user-images.githubusercontent.com/124167007/227818348-435c812e-63e2-44da-9ab3-d99dc9561414.png)
+![image](https://user-images.githubusercontent.com/124167007/227818370-8c2e1cfe-9765-4abb-83db-59d2f0028a40.png)
+![image](https://user-images.githubusercontent.com/124167007/227818383-de9817df-dece-4ad6-8625-0feee8df831b.png)
+
 ## Дополнительные задания со звёздочкой*
 
 Эти задания дополнительные. Их можно не выполнять. На зачёт это не повлияет. Вы можете их выполнить, если хотите глубже разобраться в материале.
